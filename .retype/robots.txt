@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enemymarmot9364.github.io/dein-repo/sitemap.xml.gz
