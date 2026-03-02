@@ -1,8 +1,7 @@
 ---
-date: '2024-11-05'
-title: Notes
+date: '2025'
+title: SWPP
 author: Miriam Schwabl
-icon: pencil
 ---
 # Notes
 
