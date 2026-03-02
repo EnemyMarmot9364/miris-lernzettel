@@ -1,3 +1,9 @@
+---
+date: '2025'
+title: C#
+author: Miriam Schwabl
+---
+
 # C#
 
 Gibt den Wert aus, wenn es nicht Null ist:

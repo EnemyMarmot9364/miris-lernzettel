@@ -1,6 +1,9 @@
-# Seeder 
-
-## Seeder erstellen
+---
+date: '2025'
+title: Seeder
+author: Miriam Schwabl
+---
+# Seeder erstellen
 
 Macht eine Datenbank mit Demodaten
 ```markdown 

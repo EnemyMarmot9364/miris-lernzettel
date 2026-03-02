@@ -1,3 +1,9 @@
+---
+date: '2025'
+title: Tinker
+author: Miriam Schwabl
+---
+
 # Tinker 
 
 

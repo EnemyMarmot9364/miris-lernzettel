@@ -1,3 +1,9 @@
+---
+date: '2025'
+title: Traits
+author: Miriam Schwabl
+---
+
 ## Traits
 
 :::note

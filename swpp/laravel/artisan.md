@@ -1,3 +1,8 @@
+---
+date: '2025'
+title: Erstellen und migrieren
+author: Miriam Schwabl
+---
 # Erstellen und migrieren
 Neue Tabelle erstellen
 ```markdown

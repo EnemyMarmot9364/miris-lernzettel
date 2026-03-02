@@ -1,4 +1,10 @@
-## Factory erstellen
+---
+date: '2025'
+title: Factory
+author: Miriam Schwabl
+---
+
+# Factory erstellen
 
 Erstellt eine Factory:
 ```markdown 

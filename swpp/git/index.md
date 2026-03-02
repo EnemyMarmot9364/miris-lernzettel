@@ -1,3 +1,9 @@
+---
+date: '2025'
+title: Git
+author: Miriam Schwabl
+---
+
 # Git
 
 Erstellt ein Git repository im aktuellen Verzeichnis:
