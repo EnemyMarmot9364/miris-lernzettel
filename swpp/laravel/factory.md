@@ -1,10 +1,8 @@
 ---
-date: '2025'
+date: '02-03-2025'
 title: Factory
 author: Miriam Schwabl
 ---
-
-# Factory erstellen
 
 Erstellt eine Factory:
 ```markdown 
