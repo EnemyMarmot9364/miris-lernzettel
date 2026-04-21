@@ -1,6 +1,6 @@
 ---
 date: '02-03-2025'
-title: Erstellen und migrieren
+title: Table migrieren
 author: Miriam Schwabl
 ---
 # Erstellen und migrieren
