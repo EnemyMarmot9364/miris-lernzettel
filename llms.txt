@@ -1,0 +1,23 @@
+﻿# Miris Lernzettel
+
+- [Miris Lernzettel](https://enemymarmot9364.github.io/dein-repo/index.md): Miris Lernzettel
+- [Swpp](https://enemymarmot9364.github.io/dein-repo/swpp/index.md)
+- [Lernzettel für die 2. Schularbeit](https://enemymarmot9364.github.io/dein-repo/unco/index.md): Lernzettel für die 2. Schularbeit
+
+## Swpp
+
+### Laravel
+
+- [Controller](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/controller.md)
+- [Table migrieren](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/artisan.md): Neue Tabelle erstellen
+- [Factory](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/factory.md): Erstellt eine Factory:
+- [Migrations](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/migrations.md): Constrained ist dafür dar, das in einer Tebelle für n:m Tabellen keine Fremdschlüssel vergeben werden können die es so nicht gibt
+- [Neues Projekt erstellen](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/projekt_erstellen.md): Word zum Erstellen
+- [Seeder](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/seeders.md): Macht eine Datenbank mit Demodaten
+- [Tinker](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/tinker.md): Tinker starten
+- [Traits](https://enemymarmot9364.github.io/dein-repo/swpp/laravel/traits.md): Traits sind ansammlungen von Methoden, wenn sie genutzt werden, werden alle methoden des traits implementiert und es sieht so aus als hätte man die Methoden direkt geschrieben.
+- [C#](https://enemymarmot9364.github.io/dein-repo/swpp/c/index.md): Gibt den Wert aus, wenn es nicht Null ist:
+- [Dokus](https://enemymarmot9364.github.io/dein-repo/swpp/dokus.md)
+- [Git](https://enemymarmot9364.github.io/dein-repo/swpp/git/index.md): Erstellt ein Git repository im aktuellen Verzeichnis:
+- [Notes](https://enemymarmot9364.github.io/dein-repo/swpp/sonstiges/index.md): Doku: https://laravel.com/docs/12.x
+- [Php](https://enemymarmot9364.github.io/dein-repo/swpp/php/index.md): Doku: https://www.php.net/
