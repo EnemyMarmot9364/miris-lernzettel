@@ -32,6 +32,17 @@ So wird ein neues **Linux** gestartet:
 docker run -it ubuntu bash
 ````
 
+![nginx.png](assets/nginx.png)
+
+dass **ro** steht für *Read Only* 
+**-v** zeigt die Verbindung zu unserem Ordner an 
+**-d** befiehlt, dass er af der konsole bleibt und sich nicht gleich schließt 
+
+![docker_ps_cmd.png](assets/docker_ps_cmd.png)
+mit docker rm xxx wird der container gelöscht
+mit docker stop xxx wird der container gestoppt
+
+
 
 
 
