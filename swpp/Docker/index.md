@@ -33,35 +33,36 @@ So wird ein neues **Linux** gestartet:
 ```markdown
 docker run -it ubuntu bash
 ````
+## Webserver starten 
 
 ![nginx.png](assets/nginx.png)
 
-dass **ro** steht für *Read Only* 
-**-v** zeigt die Verbindung zu unserem Ordner an 
-**-d** befiehlt, dass er af der konsole bleibt und sich nicht gleich schließt 
+- das **ro** steht für *Read Only* 
+- **-v** zeigt die lokale Verbindung zu unserem Ordner an 
+- **-d** befiehlt, dass er auf der konsole bleibt und sich nicht gleich schließt 
 
 ![docker_ps_cmd.png](assets/docker_ps_cmd.png)
-mit docker rm xxx wird der container gelöscht
-mit docker stop xxx wird der container gestoppt
+- mit docker rm http1 wird der container namens http1 gelöscht
+- mit docker stop http1 wird der container namens http1 gestoppt
 
-![2_webserver.png](assets/2_webserver.png)
-wenn ich einen 2. Webserver brauche, muss dieser aber einen anderen namen haben und auch auf einem anderen port sein 
-![userfiles.png](assets/userfiles.png)
+## 2. Webserver starten
+
+![2. Webserver](assets/2_webserver.png)
+- wenn ich einen 2. Webserver brauche, muss dieser aber einen anderen namen haben und auch auf einem anderen port sein 
+![Userfiles](assets/userfiles.png)
 bei user->share->nginx->sieht man unsere gemounteten Dateien
 
+$ Zeichen bei command nie mitkopieren es besagt nur das es ein command ist
 
-
-$ Zeichen bei command nie mitkopieren es besagt nur das es ein command ist 
-
-
-![mariadberstellen.png](assets/mariadberstellen.png)
+![MariaDB starten](assets/mariadberstellen.png)
 mariadb starten mit passwort name und auf port 3306 
 
-bei --env in der console sieht man beim laufenden prozess dann welche parameter benutzt wurden 
-ein andere user auf diesem system würde das rootpasswort sehen 
+bei --env in der console sieht man beim laufenden Prozess dann welche Parameter benutzt wurden. 
+Ein andere user auf diesem system würde das rootpasswort sehen. 
 
-![datenbank erstellen.png](assets/datenbank_erstellen.png)
-diese datenbank in tableplus erstellen 
+Diese datenbank in tableplus erstellen:
+![Datenbank erstellen](assets/datenbank_erstellen.png)
+
 
 
 Achtung: die daten sind hier nur im container gespeichert also nicht gemounted beim updaten werden die daten gelöscht 
