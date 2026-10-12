@@ -60,7 +60,7 @@ mariadb starten mit passwort name und auf port 3306
 bei --env in der console sieht man beim laufenden prozess dann welche parameter benutzt wurden 
 ein andere user auf diesem system würde das rootpasswort sehen 
 
-![datenbank erstellen.png](assets/datenbank%20erstellen.png)
+![datenbank erstellen.png](assets/datenbank_erstellen.png)
 diese datenbank in tableplus erstellen 
 
 
